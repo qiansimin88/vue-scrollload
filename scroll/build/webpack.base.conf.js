@@ -67,6 +67,11 @@ module.exports = {
         }
       },
       {
+        test: /\.less$/,
+        loader: 'style!.css!less',
+        exclude: /node_modules/
+      },
+      {
         test: /\.(woff2?|eot|ttf|otf)(\?.*)?$/,
         loader: 'url',
         query: {
