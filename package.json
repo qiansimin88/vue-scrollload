@@ -1,0 +1,23 @@
+{
+  "name": "vue-scrollload",
+  "version": "1.0.0",
+  "description": "vue Infinite rolling load",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qiansimin88/vue-scrollload.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qiansimin88/vue-scrollload/issues"
+  },
+  "homepage": "https://github.com/qiansimin88/vue-scrollload#readme"
+}
