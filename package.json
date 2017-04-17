@@ -4,7 +4,7 @@
   "description": "vue Infinite rolling load",
   "main": "index.js",
   "dependencies": {
-    "chalk": "^1.0.0"
+    "chalk": "^1.1.0"
   },
   "devDependencies": {},
   "scripts": {
